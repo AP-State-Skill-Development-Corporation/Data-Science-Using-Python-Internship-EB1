@@ -3,10 +3,6 @@
 ## Day0 Pre-Training Resources
 
 1. **[Downloading and Installing Jupyter on Windows](https://medium.com/@anilkumarteegala/getting-started-with-anaconda-and-jupyter-notebook-on-windows-68e68a2a3bbb)**
-2. **[Markdown Syntax](https://www.markdownguide.org/cheat-sheet/)**
-3. **[Github Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)**
-4. [**Official Python Website**](https://www.python.org/)
-4. [**Python Tutorial**](https://www.programiz.com/python-programming)
 
 ## Data Sources
 1. **[Kaggle](https://www.kaggle.com/datasets)**
