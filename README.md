@@ -24,3 +24,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 5. Minimum **`100`** minutes should attend in **`120`** minutes session with same login format
 
 -------------
+
+## Lecture Slides and Recordings
+
+- Day01 - 25-May-2021 - [Introduction to Data Science](Slides/Day01_Introduction_to_Data_Science.pdf) - [Recording](https://transcripts.gotomeeting.com/#/s/0321a7229932e2544f8b00d34c74dc377cfe856fcdebb07b8fd50a47bf150a40)
