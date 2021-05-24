@@ -3,6 +3,8 @@
 ## Day0 Pre-Training Resources
 
 1. **[Downloading and Installing Jupyter on Windows](https://medium.com/@anilkumarteegala/getting-started-with-anaconda-and-jupyter-notebook-on-windows-68e68a2a3bbb)**
+2. **[Git](https://git-scm.com/downloads)**
+3. **[Typora](http://typora.io/)**
 
 ## Data Sources
 1. **[Kaggle](https://www.kaggle.com/datasets)**
