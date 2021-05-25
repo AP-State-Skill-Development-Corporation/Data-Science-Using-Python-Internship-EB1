@@ -6,11 +6,31 @@
 2. **[Git](https://git-scm.com/downloads)**
 3. **[Typora](http://typora.io/)**
 
+---------------
+
+## Day02 Discussed Reference Links
+
+1.  **[Programming Languages Popularity](https://pypl.github.io/PYPL.html)**
+2.  **[Python Official Website](https://www.python.org/)**
+3.  Anaconda Software Download → **[[Windows7 or 8]](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe)**, **[[Others]](https://www.anaconda.com/products/individual#Downloads)**
+4. Online Editors:
+    1. **[Google Colab](https://colab.research.google.com/)**
+    2. **[Repl.it](https://replit.com/)**
+    3. **[Kaggle Notebooks](https://www.kaggle.com/code)**
+5.  **[Literature Programming](http://literateprogramming.com/knuthweb.pdf)**
+
+
+
+-----------------------
+
+<br>
+
 ## Data Sources
 1. **[Kaggle](https://www.kaggle.com/datasets)**
 2. **[Google Datset Search Engine](https://datasetsearch.research.google.com/)**
 3. **[Data.World](https://data.world/)**
 4. **[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)**
+----------------
 
 ## Few more imp. suggestions
 1. Everyone should have professional [**LinkedIn**](https://www.linkedin.com/) profile for future job purpose build nice LinkedIn profile.
