@@ -12,7 +12,7 @@
 
 1.  **[Programming Languages Popularity](https://pypl.github.io/PYPL.html)**
 2.  **[Python Official Website](https://www.python.org/)**
-3.  Anaconda Software Download → **[[Windows7 or 8]](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe)**, **[[Others]](https://www.anaconda.com/products/individual#Downloads)**
+3.  Anaconda Software Download → **[[Windows7 or 8 (64Bit)]](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe)**, **[[Windows7 or 8 (32Bit)]](https://repo.anaconda.com/archive/Anaconda2-2019.10-Windows-x86.exe)**, **[[Others]](https://www.anaconda.com/products/individual#Downloads)**
 4. Online Editors:
     1. **[Google Colab](https://colab.research.google.com/)**
     2. **[Repl.it](https://replit.com/)**
