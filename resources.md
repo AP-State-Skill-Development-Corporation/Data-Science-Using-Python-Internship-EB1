@@ -19,7 +19,21 @@
     3. **[Kaggle Notebooks](https://www.kaggle.com/code)**
 5.  **[Literature Programming](http://literateprogramming.com/knuthweb.pdf)**
 
+-----------------
 
+## Day03 Discussed Reference Links
+
+1. **[Markdown Cheat Sheet](https://sqlbak.com/blog/wp-content/uploads/2020/12/Jupyter-Notebook-Markdown-Cheatsheet2.pdf)**
+2. **[Math Markdown](http://joshua.smcvt.edu/undergradmath/undergradmath.pdf)**
+3. **[The Comprehensive LATEX Symbol List](http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)**
+--------------
+
+## Day04 Discussed Reference Links
+
+1. **[Git Download](https://git-scm.com/downloads)**
+2. **[Git install](https://anilkumarteegala.github.io/Git-Local-Environment-Setup-%5BWindows%5D)** → in step 5 use default as vim
+3. **[GitHub Account Setup](https://anilkumarteegala.github.io/GitHub_Account_Setup)**
+4. **[Python Open Source Repo](https://github.com/python/cpython/tree/main)**
 
 -----------------------
 
