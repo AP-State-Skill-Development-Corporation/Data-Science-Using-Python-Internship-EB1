@@ -37,6 +37,26 @@
 
 -----------------------
 
+### Day03 Resources
+
+1. **[Bash Scriping Cheat Sheet](https://devhints.io/bash)**
+2. **[Doc Formatting](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)**
+3. **[.gitignore Templetes](https://www.toptal.com/developers/gitignore)**
+4. **[How to choose a license](https://choosealicense.com/)**
+5. **[Sample Project Document](https://github.com/thoughtbot/factory_bot#readme)**
+1. **[Portfolio Templetes](https://templateflip.com/templates/)**
+2. **[GitHub Pages](https://pages.github.com/)**
+3. **[Open Source Contribution](https://opensource.guide/how-to-contribute/)**
+4. **[Open Source Contribution2](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)**
+6. **[Udacity VCS Course](https://www.udacity.com/course/version-control-with-git--ud123)**
+7. **[Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)**
+8. **[GitHub Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)**
+9. **[Student Developer Pack](https://education.github.com/)**
+10. **[Web Hosting](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)**
+5. **[Free Git & GitHub Course](https://openclassrooms.com/en/courses/5671626-manage-your-code-project-with-git-github)**
+
+
+---------------------
 <br>
 
 ## Data Sources
