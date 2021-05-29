@@ -12,6 +12,7 @@ Welcome to APSSDC Data Science Using Python Online Internship Training, this rep
 #### APSSDC-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
 
+## Provide your valuable feedback for Week1 [Click to View Form](https://forms.gle/jnXeQsxM7Jausrft9)
 
 ### Instructions for attendance
 
@@ -32,3 +33,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day03 - 26-May-2021 - Introduction to Jupyter and Markdown Syntax → **[[.ipynb]](Notebooks/Day03_Markdown_Syntax.ipynb)**, **[[.pdf]](PDF_Notebooks/Day03_Markdown_Syntax.pdf)** - **[[Recording]](https://transcripts.gotomeeting.com/#/s/9dda8ac6d4b85b1fd06b087e8001ec3bb51bafc9f68f7e96996658aaadf767c6)**
 - Day04 - 27-May-2021 - **[[Version Control System using Git & GitHub]](Slides/Day04_Version_Control_System.pdf)** - **[[Recording]](https://transcripts.gotomeeting.com/#/s/fd36cbc9d6a8b615c267b6f442a450de82b5c2162448da9a741a132fe752ce19)**
 - Day05 - 28-May-2021 - **[[Git and GitHub Workflow]](Slides/Day05_Local&Remote_VCS.pdf)** - **[[Recording]](https://transcripts.gotomeeting.com/#/s/92f5635805d7e3451d4a79ce984f3118e955e3e8929c51e632f9cbc87fee4533)**
+- Day06 - 29-May-2021 - Python Basics → **[[.ipynb]](Notebooks/Day06_Python_Basics.ipynb)**, **[[.pdf]](PDF_Notebooks/Day06_Python_Basics.pdf)** - **[[Recording]](https://transcripts.gotomeeting.com/#/s/690197bfecf7d4018fba26d780871215ea988d8bef095e721ea494464c0efe71)**
