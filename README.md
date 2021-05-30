@@ -12,6 +12,8 @@ Welcome to APSSDC Data Science Using Python Online Internship Training, this rep
 #### APSSDC-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
 
+### Day to Day Attendance [[Click to Check your Attendance]](https://docs.google.com/spreadsheets/d/1jGqff5PyL53ukZL3z8_6NjaKkoNcg93M92Mouf8bKrI/edit?usp=sharing)
+
 ## Provide your valuable feedback for Week1 [Click to View Form](https://forms.gle/jnXeQsxM7Jausrft9)
 
 ### Instructions for attendance
