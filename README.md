@@ -30,9 +30,10 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ## Lecture Slides, Notebooks and Recordings
 
-- Day01 - 24-May-2021 - **[[Introduction to Data Science]](Slides/Day01_Introduction_to_Data_Science.pdf)** - **[[Recording]](https://transcripts.gotomeeting.com/#/s/0321a7229932e2544f8b00d34c74dc377cfe856fcdebb07b8fd50a47bf150a40)**
-- Day02 - 25-May-2021 - **[[Introduction to Python Programming]](Day02_Introduction_to_Python_Programming.pdf)** - **[[Recording]](https://transcripts.gotomeeting.com/#/s/9663bb766291798f6a23306fa3bdffc600d82b6eece69d4baedf2ddb23eac759)**
-- Day03 - 26-May-2021 - Introduction to Jupyter and Markdown Syntax → **[[.ipynb]](Notebooks/Day03_Markdown_Syntax.ipynb)**, **[[.pdf]](PDF_Notebooks/Day03_Markdown_Syntax.pdf)** - **[[Recording]](https://transcripts.gotomeeting.com/#/s/9dda8ac6d4b85b1fd06b087e8001ec3bb51bafc9f68f7e96996658aaadf767c6)**
-- Day04 - 27-May-2021 - **[[Version Control System using Git & GitHub]](Slides/Day04_Version_Control_System.pdf)** - **[[Recording]](https://transcripts.gotomeeting.com/#/s/fd36cbc9d6a8b615c267b6f442a450de82b5c2162448da9a741a132fe752ce19)**
-- Day05 - 28-May-2021 - **[[Git and GitHub Workflow]](Slides/Day05_Local&Remote_VCS.pdf)** - **[[Recording]](https://transcripts.gotomeeting.com/#/s/92f5635805d7e3451d4a79ce984f3118e955e3e8929c51e632f9cbc87fee4533)**
-- Day06 - 29-May-2021 - Python Basics → **[[.ipynb]](Notebooks/Day06_Python_Basics.ipynb)**, **[[.pdf]](PDF_Notebooks/Day06_Python_Basics.pdf)** - **[[Recording]](https://transcripts.gotomeeting.com/#/s/690197bfecf7d4018fba26d780871215ea988d8bef095e721ea494464c0efe71)**
+- Day01 - 24-May-2021 - **[[Introduction to Data Science]](Slides/Day01_Introduction_to_Data_Science.pdf)** - **[[Recording]](https://youtu.be/93kUtl_QLLA)**
+- Day02 - 25-May-2021 - **[[Introduction to Python Programming]](Day02_Introduction_to_Python_Programming.pdf)** - **[[Recording]](https://youtu.be/voqLKsLCe5k)**
+- Day03 - 26-May-2021 - Introduction to Jupyter and Markdown Syntax → **[[.ipynb]](Notebooks/Day03_Markdown_Syntax.ipynb)**, **[[.pdf]](PDF_Notebooks/Day03_Markdown_Syntax.pdf)** - **[[Recording]](https://youtu.be/Z3t0iNshdCc)**
+- Day04 - 27-May-2021 - **[[Version Control System using Git & GitHub]](Slides/Day04_Version_Control_System.pdf)** - **[[Recording]](https://youtu.be/SNi2LgXKtHU)**
+- Day05 - 28-May-2021 - **[[Git and GitHub Workflow]](Slides/Day05_Local&Remote_VCS.pdf)** - **[[Recording]](https://youtu.be/2s-dF6qWXOE)**
+- Day06 - 29-May-2021 - Python Basics → **[[.ipynb]](Notebooks/Day06_Python_Basics.ipynb)**, **[[.pdf]](PDF_Notebooks/Day06_Python_Basics.pdf)** - **[[Recording]](https://youtu.be/sMa1YTfpN4I)**
+- Day07 - 31-May-2021 - Conditional Statements Loops Strings in Python → **[[.ipynb]](Notebooks/Day07_Conditional_Statements_Loops_Strings)**, **[[.pdf]](PDF_Notebooks/Day07_Conditional_Statements_Loops_Strings.pdf)** - **[[Recording]](https://youtu.be/X5mPhddbLL8)**
