@@ -36,4 +36,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day04 - 27-May-2021 - **[[Version Control System using Git & GitHub]](Slides/Day04_Version_Control_System.pdf)** - **[[Recording]](https://youtu.be/SNi2LgXKtHU)**
 - Day05 - 28-May-2021 - **[[Git and GitHub Workflow]](Slides/Day05_Local&Remote_VCS.pdf)** - **[[Recording]](https://youtu.be/2s-dF6qWXOE)**
 - Day06 - 29-May-2021 - Python Basics → **[[.ipynb]](Notebooks/Day06_Python_Basics.ipynb)**, **[[.pdf]](PDF_Notebooks/Day06_Python_Basics.pdf)** - **[[Recording]](https://youtu.be/sMa1YTfpN4I)**
-- Day07 - 31-May-2021 - Conditional Statements Loops Strings in Python → **[[.ipynb]](Notebooks/Day07_Conditional_Statements_Loops_Strings)**, **[[.pdf]](PDF_Notebooks/Day07_Conditional_Statements_Loops_Strings.pdf)** - **[[Recording]](https://youtu.be/X5mPhddbLL8)**
+- Day07 - 31-May-2021 - Conditional Statements Loops Strings in Python → **[[.ipynb]](Notebooks/Day07_Conditional_Statements_Loops_Strings.ipynb)**, **[[.pdf]](PDF_Notebooks/Day07_Conditional_Statements_Loops_Strings.pdf)** - **[[Recording]](https://youtu.be/X5mPhddbLL8)**
+- Day08 - 01-Jun-2021 - Strings, String Methods and Lists in Python → **[[.ipynb]](Notebooks/Day08_Strings_and_StringMethods.ipynb)**, **[[.pdf]](PDF_Notebooks/Day08_Strings_and_StringMethods.pdf)** - **[[Recording]](https://youtu.be/cf-El932Cl4)**
