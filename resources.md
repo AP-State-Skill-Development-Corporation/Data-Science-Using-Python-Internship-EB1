@@ -56,6 +56,10 @@
 5. **[Free Git & GitHub Course](https://openclassrooms.com/en/courses/5671626-manage-your-code-project-with-git-github)**
 
 
+### Day08 Resources
+
+1. **[PEP8 Guidelines](https://realpython.com/python-pep8/)**
+1. **[String Method Notes](https://www.programiz.com/python-programming/methods/string)**
 ---------------------
 <br>
 
