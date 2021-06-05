@@ -6,15 +6,14 @@ Welcome to APSSDC Data Science Using Python Online Internship Training, this rep
 <!--
 #### Verify your details → [[Here]](https://docs.google.com/spreadsheets/d/15SvzgZoFkJfWGlTMVoqjWd-1P231WUP4BzLYHCuK45M/edit?usp=sharing) if any changes update in modificaations column same will be printed on certificate
 --->
-#### Meeting Link → [[Click Here to Join]](https://www.gotomeet.me/apssdc-ds) or Meeting Id -> [[954-974-605]](https://www.gotomeeting.com/en-in/meeting/join-meeting)
+#### From 07-June-2021 Meeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/966785389) or Meeting Id -> [[966-785-389]](https://www.gotomeeting.com/en-in/meeting/join-meeting)
 
 #### APSSDC-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
 
-<!--
 #### Slack for Communication → [[Click here to Join in Slack]](https://join.slack.com/t/apssdc-community/shared_invite/zt-qqmojwya-ObEC98Lwt9ejIE0afFPtWg)
 ### Day to Day Attendance [[Click to Check your Attendance]](https://docs.google.com/spreadsheets/d/1jGqff5PyL53ukZL3z8_6NjaKkoNcg93M92Mouf8bKrI/edit?usp=sharing)
--->
+
 
 ## Provide your valuable feedback [Click to View Form](https://forms.gle/jnXeQsxM7Jausrft9)
 
