@@ -10,6 +10,7 @@ Welcome to APSSDC Data Science Using Python Online Internship Training, this rep
 
 #### APSSDC-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
+#### [Python Practice Problems](https://github.com/AP-State-Skill-Development-Corporation/Practice-Problems)
 
 #### Slack for Communication → [[Click here to Join in Slack]](https://join.slack.com/t/apssdc-community/shared_invite/zt-qqmojwya-ObEC98Lwt9ejIE0afFPtWg)
 ### Day to Day Attendance [[Click to Check your Attendance]](https://docs.google.com/spreadsheets/d/1jGqff5PyL53ukZL3z8_6NjaKkoNcg93M92Mouf8bKrI/edit?usp=sharing)
@@ -43,3 +44,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day10 - 03-Jun-2021 - Dictionary its methods in Python → **[[.ipynb]](Notebooks/Day10_Dictionary_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day10_Dictionary_in_Python.pdf)** - **[[Recording]](https://youtu.be/wRVIO3NFn40)**
 - Day11 - 04-Jun-2021 - Sets and Functions in Python → **[[.ipynb]](Notebooks/Day11_Sets_and_Functions_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day11_Sets_and_Functions_in_Python.pdf)** - **[[Recording]](https://youtu.be/fkvqdEx8yLM)**
 - Day12 - 05-Jun-2021 - File Handling in Python → **[[.ipynb]](Notebooks/Day12_File_Handling_in_Python/Day12_File_Handing_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day12_File_Handing_in_Python.pdf)** - **[[Recording]](https://youtu.be/QJbq4PcLiBY)**
+- Day13 - 07-Jun-2021 - Files and Functions contd. → **[[.ipynb]](Notebooks/Day13_Files_and_Functions_Contd/Day13_Files_and_Functions_Contd.ipynb)**, **[[.pdf]](PDF_Notebooks/Day13_Files_and_Functions_Contd.pdf)** - **[[Recording]](https://youtu.be/DeTPamDZa5Y)**
