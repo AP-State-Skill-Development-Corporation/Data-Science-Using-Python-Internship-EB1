@@ -61,6 +61,13 @@
 1. **[PEP8 Guidelines](https://realpython.com/python-pep8/)**
 1. **[String Method Notes](https://www.programiz.com/python-programming/methods/string)**
 ---------------------
+
+
+1. **[Built-in Functions](https://docs.python.org/3/library/functions.html)**
+2. **[The Python Standard Library](https://docs.python.org/3/library/index.html)**
+2. **[Python Package Index](https://pypi.org/)**
+
+---------------------------
 <br>
 
 ## Data Sources
