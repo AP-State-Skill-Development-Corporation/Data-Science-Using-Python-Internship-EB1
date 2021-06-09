@@ -33,7 +33,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## Lecture Slides, Notebooks and Recordings
 
 - Day01 - 24-May-2021 - **[[Introduction to Data Science]](Slides/Day01_Introduction_to_Data_Science.pdf)** - **[[Recording]](https://youtu.be/93kUtl_QLLA)**
-- Day02 - 25-May-2021 - **[[Introduction to Python Programming]](Day02_Introduction_to_Python_Programming.pdf)** - **[[Recording]](https://youtu.be/voqLKsLCe5k)**
+- Day02 - 25-May-2021 - **[[Introduction to Python Programming]](Slides/Day02_Introduction_to_Python_Programming.pdf)** - **[[Recording]](https://youtu.be/voqLKsLCe5k)**
 - Day03 - 26-May-2021 - Introduction to Jupyter and Markdown Syntax → **[[.ipynb]](Notebooks/Day03_Markdown_Syntax.ipynb)**, **[[.pdf]](PDF_Notebooks/Day03_Markdown_Syntax.pdf)** - **[[Recording]](https://youtu.be/Z3t0iNshdCc)**
 - Day04 - 27-May-2021 - **[[Version Control System using Git & GitHub]](Slides/Day04_Version_Control_System.pdf)** - **[[Recording]](https://youtu.be/SNi2LgXKtHU)**
 - Day05 - 28-May-2021 - **[[Git and GitHub Workflow]](Slides/Day05_Local&Remote_VCS.pdf)** - **[[Recording]](https://youtu.be/2s-dF6qWXOE)**
@@ -46,3 +46,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day12 - 05-Jun-2021 - File Handling in Python → **[[.ipynb]](Notebooks/Day12_File_Handling_in_Python/Day12_File_Handing_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day12_File_Handing_in_Python.pdf)** - **[[Recording]](https://youtu.be/QJbq4PcLiBY)**
 - Day13 - 07-Jun-2021 - Files and Functions contd. → **[[.ipynb]](Notebooks/Day13_Files_and_Functions_Contd/Day13_Files_and_Functions_Contd.ipynb)**, **[[.pdf]](PDF_Notebooks/Day13_Files_and_Functions_Contd.pdf)** - **[[Recording]](https://youtu.be/DeTPamDZa5Y)**
 - Day14 - 08-Jun-2021 - Modules and Packages in Python → **[[.ipynb]](Notebooks/Day14_Modules_and_Packages_in_Python/Day14_Modules_and_Packages_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day14_Modules_and_Packages_in_Python.pdf)** - **[[Recording]](https://youtu.be/ahszOgSM15s)**
+- Day15 - 09-Jun-2021 - Regular Expressions in Python → **[[.ipynb]](Notebooks/Day15_Regular_Expressions_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day15_Regular_Expressions_in_Python.pdf)** - **[[Recording]](https://transcripts.gotomeeting.com/#/s/5623d41960b3082a91262aff8a1a552706317c97874a08211a6203639616f022)**
