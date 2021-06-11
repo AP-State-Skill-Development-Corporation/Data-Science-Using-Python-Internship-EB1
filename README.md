@@ -3,9 +3,11 @@
 # Data Science Using Python
 
 Welcome to APSSDC Data Science Using Python Online Internship Training, this repository consists of all the files, resources, and recorded session links which are discussed during the entire training.
+
 <!--
-#### Verify your details → [[Here]](https://docs.google.com/spreadsheets/d/15SvzgZoFkJfWGlTMVoqjWd-1P231WUP4BzLYHCuK45M/edit?usp=sharing) if any changes update in modificaations column same will be printed on certificate
+#### Verify your details if any changes update in modificaations column same will be printed on certificate
 --->
+
 #### From 07-June-2021 Meeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/966785389) or Meeting Id -> [[966-785-389]](https://www.gotomeeting.com/en-in/meeting/join-meeting)
 
 #### APSSDC-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
@@ -32,13 +34,13 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ## Lecture Slides, Notebooks and Recordings
 
-- Day01 - 24-May-2021 - **[[Introduction to Data Science]](Slides/Day01_Introduction_to_Data_Science.pdf)** - **[[Recording]](https://youtu.be/93kUtl_QLLA)**
-- Day02 - 25-May-2021 - **[[Introduction to Python Programming]](Slides/Day02_Introduction_to_Python_Programming.pdf)** - **[[Recording]](https://youtu.be/voqLKsLCe5k)**
-- Day03 - 26-May-2021 - Introduction to Jupyter and Markdown Syntax → **[[.ipynb]](Notebooks/Day03_Markdown_Syntax.ipynb)**, **[[.pdf]](PDF_Notebooks/Day03_Markdown_Syntax.pdf)** - **[[Recording]](https://youtu.be/Z3t0iNshdCc)**
+- Day01 - 24-May-2021 - **[[Introduction to Data Science]](Slides/Day01_Introduction_to_Data_Science.pdf)** → **[[Recording]](https://youtu.be/93kUtl_QLLA)**
+- Day02 - 25-May-2021 - **[[Introduction to Python Programming]](Slides/Day02_Introduction_to_Python_Programming.pdf)** → **[[Recording]](https://youtu.be/voqLKsLCe5k)**
+- Day03 - 26-May-2021 - Introduction to Jupyter and Markdown → **[[.ipynb]](Notebooks/Day03_Markdown_Syntax.ipynb)**, **[[.pdf]](PDF_Notebooks/Day03_Markdown_Syntax.pdf)** - **[[Recording]](https://youtu.be/Z3t0iNshdCc)**
 - Day04 - 27-May-2021 - **[[Version Control System using Git & GitHub]](Slides/Day04_Version_Control_System.pdf)** - **[[Recording]](https://youtu.be/SNi2LgXKtHU)**
 - Day05 - 28-May-2021 - **[[Git and GitHub Workflow]](Slides/Day05_Local&Remote_VCS.pdf)** - **[[Recording]](https://youtu.be/2s-dF6qWXOE)**
 - Day06 - 29-May-2021 - Python Basics → **[[.ipynb]](Notebooks/Day06_Python_Basics.ipynb)**, **[[.pdf]](PDF_Notebooks/Day06_Python_Basics.pdf)** - **[[Recording]](https://youtu.be/sMa1YTfpN4I)**
-- Day07 - 31-May-2021 - Conditional Statements Loops Strings in Python → **[[.ipynb]](Notebooks/Day07_Conditional_Statements_Loops_Strings.ipynb)**, **[[.pdf]](PDF_Notebooks/Day07_Conditional_Statements_Loops_Strings.pdf)** - **[[Recording]](https://youtu.be/cf-El932Cl4)**
+- Day07 - 31-May-2021 - Conditional Statements Loops in Python → **[[.ipynb]](Notebooks/Day07_Conditional_Statements_Loops_Strings.ipynb)**, **[[.pdf]](PDF_Notebooks/Day07_Conditional_Statements_Loops_Strings.pdf)** - **[[Recording]](https://youtu.be/cf-El932Cl4)**
 - Day08 - 01-Jun-2021 - Strings, String Methods and Lists in Python → **[[.ipynb]](Notebooks/Day08_Strings_and_StringMethods.ipynb)**, **[[.pdf]](PDF_Notebooks/Day08_Strings_and_StringMethods.pdf)** - **[[Recording]](https://youtu.be/ke720o7wsH0)**
 - Day09 - 02-Jun-2021 - List, Tuple and its methods in Python → **[[.ipynb]](Notebooks/Day09_Lists_and_Tuples_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day09_Lists_and_Tuples_in_Python.pdf)** - **[[Recording]](https://youtu.be/SREIT_frSKw)**
 - Day10 - 03-Jun-2021 - Dictionary its methods in Python → **[[.ipynb]](Notebooks/Day10_Dictionary_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day10_Dictionary_in_Python.pdf)** - **[[Recording]](https://youtu.be/wRVIO3NFn40)**
