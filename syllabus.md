@@ -3,11 +3,14 @@
 
 <h1><p align="center">Data Science Using Python</p></h1>
 
+## Objectives:
+
+- To introduce students to the basic concepts and techniques of Data Science and Machine Learning.
+- To develop skills of using recent machine learning software for solving practical
+problems.
+- To gain experience in doing independent study and research.
 
 ## Course Content
-
-
-# Data Analysis Using Python Program
 
 | Chapter No. |                       Topic Name                       | Sub Topics                                                   |
 | :---------: | :----------------------------------------------------: | ------------------------------------------------------------ |
@@ -43,7 +46,6 @@
 |     30      |                       Clustering                       | Introduction to clustering <br> Types of Clustering Methods <br> K-Means Clustering <br>Hierarchical Clustering<br /> Applications |
 |     31      |                Dimensionality Reduction                | Dimensionality Reduction: <br>Principal Component Analysis (PCA) |
 
-
 ## Hardware Requirements:
 - i3 or above Processor is required
 - 4 GB or above RAM is recommended
@@ -53,14 +55,6 @@
 ## Duration :
 45 Days (2 hours each day)
 
-## Course Objectives:
-
-- To introduce students to the basic concepts and techniques of Data Science and Machine Learning.
-- To develop skills of using recent machine learning software for solving practical
-problems.
-- To gain experience in doing independent study and research.
-
 ## Entry Requirements:
-
-- Students must have Knowledge of Python Programming.
-- Statistics Algebra, and Probability.
+- Students must have Knowledge of basic computer.
+- Students must have Knowledge on Statistics Algebra, and Probability.
