@@ -7,29 +7,42 @@
 ## Course Content
 
 
-|Topic No|	Topic Name|	Sub Topics|
-|--------|------------|-----------|
-|1|	Overview, content and <br>Introduction to Data Science|	Introduction to Data Science<br> What is Data Science<br> Types of Data in Statistics (Numerical & Categorical)<br> What is Machine Learning<br> Machine Learning Classification<br> Types of Algorithms|
-|2|	Introduction to Python, Python Basics|	Why Python?<br>Difference between Python 2 & 3<br>Softwares used for Python<br>Installation of Anaconda Software<br>Introduction to Jupyter Environment and Markdown Format<br>Hello World in Python|
-|3|	Identifiers and Operators in Python|	Variables and Data types in Python<br> Type Conversions<br> Operators in Python<br> Examples|
-|4|	Working with Conditions, Loops and String operations|	Conditional statements<br> Loops in python<br> String Declaration. accessing<br> String Slicing and methods<br> Examples and Calculating shopping prices application|
-|5|	Python Data Structures	|What are Python Data structures<br> Declaring a List, accessing a list<br> List slicing and List methods<br> Declaring a tuple, accessing a tuple<br> Tuple slicing and tuple methods<br> Declaring a Dictionary, accessing the values in a dictonary<br> Dictionary methods<br> Examples|
-|6|	Functions and Packages	|Different types of Functions<br>    - Builtin Functions<br>    - User Defined <br> Creating a package and importing the Package <br> Random module <br> Examples|
-|7|	Regular Expressions and<br> Working with Files in Python	|Regular Expressions<br> File Handling<br> File Processing<br> Tasks|
-|8|	Comprehensions, Lambda Expressions<br> Map and Filter	|List and Dictonary Comprehensions<br> Lambda Expressions<br> map(), filter(), zip(), enumerate()|
-|9|	Data Manipulation with NumPy	|Introduction<br> NumPy Arrays<br> NumPy Basics<br> Math<br> Indexing<br> Random<br> Filtering<br> Statistics<br> Aggregation<br> Saving Data|
-|10|	Data Analysis with Pandas	|Introduction to Data Analysis using Pandas<br> Pandas Series<br> Pandas DataFrame<br> Combining<br> Indexing<br> File I/O<br> Grouping<br> Features<br> Filtering<br> Sorting Stastical Plotting|
-|11|	Data Preprocessing with Scikit Learn	|Introduction to Data Preprocessing and Scikit-Learn <br> Standardizing of Data <br> Robust Scaling <br> Data Range <br> Normalizing Data|
-|12|	Data Cleaning with Pandas| Label Encoder and One Hot Encoding<br> Polynomial Features<br> Working with Duplicates and Missing Values<br> Which values should be replace with missing values based on type of data<br> Identifying and Eliminating of Outliers<br> Filling missing data using Data Imputation|
-|13|	Introduction to Data Visualization with Matplotlib	|Introduction to Visualization and Python packages<br> Matplotlib history and Architecture<br> Introduction to plotting<br> Line Plot<br> Scatter Plot<br> Bar Graph<br> Histogram<br> Pie Chart Box Plot|
-|14|	Data Visualization With Seaborn| Using Seaborn Styles<br> Setting the default style<br> Color Palettes<br> Creating Custom Palettes<br> stripplot() and swarmplot()<br> boxplots, violinplots<br> barplots, pointplots and countplots<br> Regression Plots<br> Binning data<br> Creating heatmaps<br> Applying on raw dataset and introduction to Kaggle and other data sources|
-|15|	Regression Models| Linear Regression with One variable<br> Evaluation Metrics in Regression Models<br> Train/Test splitting of data & Cross Validation<br> Linear Regression with Multiple Variables<br> Polynomial Features<br> Non-Linear Regression with One variable<br> Non-Linear Regression with Multiple variable|
-|16|	Regularization Models| Under fitting<br> Overfitting<br> Best fit<br> Applying Ridge Regression<br> Lasso Regression Algorithms|
-|17|	Classification models - 1| Introduction to categorical types of data<br> Types of classification<br> K-Nearest Neighbors Classifier<br> Evaluation Metrics for classification Models<br> Logistic regression<br> Support Vector Machines|
-|18|	Classification Models - 2| Introduction to Decision Tree<br> Terminology related to Decision Trees<br> Types of Decision Trees<br> Decision Trees Classifier<br> Decision Tree Regressor<br> Random Forest Algorithm|
-|19|	Unsupervised Machine Learning| Introduction to Unsupervised Learning <br> Types of Unsupervised Learning|
-|20|	Clustering	|Introduction to clustering <br> Types of Clustering Methods <br> KMeans Clustering <br> Applications|
-|21|	Dimensionality Reduction | Dimensionality Reduction: <br> Principal Component Analysis (PCA)|
+# Data Analysis Using Python Program
+
+| Chapter No. |                       Topic Name                       | Sub Topics                                                   |
+| :---------: | :----------------------------------------------------: | ------------------------------------------------------------ |
+|      1      | Overview, content and <br>Introduction to Data Science | Introduction to Data Science<br> What is Data Science<br>Programming Languages used for DS<br /> Applications of Data Science |
+|      2      |                 Introduction to Python                 | Python Introduction<br/>Literate Programming<br/>Jupyter Notebook Environment<br/>Markdown format for documentation<br/>Python basics<br>Input and output statements in python |
+|      3      |         Introduction to Version Control System         | Purpose of Version Control System<br />Types of VCS<br />Introduction to Git and History<br />Git Terminology<br />Git Bash Installation and Unix bash commands |
+|      4      |                       Git Basics                       | Initializing repositories <br />Accessing Existing <br />Repositories Adding/Removing files from Staging area <br/>Committing the changes to repository <br />Undoing the commits that are made |
+|      5      |                   Remote Repository                    | Introduction to GitHub<br />Creating an Account on GitHub<br /> Create a remote repository <br />Adding the remotes Push, pull and fetch commands. |
+|      6      |                      GitHub Pages                      | Creation of personal portfolio site <br />Creating a GitHub Page using Markdown and <br />Jekyll themes for repositories. |
+|      7      |          Identifiers and Operators in Python           | Identifiers in Python<br />Properties for Declaring Identifiers<br />Type Conversions<br>Operators in Python<br />Examples |
+|      8      |                  Data Types in Python                  | Numbers int, float, complex<br />bool, None<br />Strings<br/>Accessing the characters from strings<br />String Methods |
+|      9      |     Conditional Statements &<br /> Loops in Python     | Conditional Statements<br/>For and While Loop<br/>Break, continue keywords |
+|     10      |               Data Structures in Python                | Lists<br/>List Methods<br/>Tuples<br/>Tuple Methods<br />Dictionaries<br/>Dictionary Methods |
+|     11      |                       Functions                        | Different types of Functions<br>    - Built-in Functions<br>    - User Defined <br />Lambda function<br />Call by value<br />Call by Reference |
+|     12      |                File Handling in Python                 | Open and Closing Files in Python<br />Writing to Files in Python<br />Reading Files in Python<br />File Methods |
+|     13      |             Modules and Packages in Python             | Types of Modules and Packages<br />    - Built-in Packages and Modules<br/>            - Math, Random, OS, sys module <br/>     - User Defined <br/>  Examples |
+|     14      |       Comprehensions and Functional Programming        | List, Dictionary & set Comprehensions<br />map(), filter(), reduce() |
+|     15      |            Object-Oriented Programming - 1             | Object-orientation - Class, Objects, Methods, <br />Encapsulation<br />Inheritance: Single, Multiple, Multilevel, Hierarchical, Hybrid Inheritance |
+|     16      |            Object-Oriented Programming - 2             | Polymorphism<br />Method overriding, <br />Variable Overriding |
+|     17      |             Introduction to Data Analysis              | Introduction to Data <br />Types of Data in Statistics (Numerical & Categorical) <br />Overview of Python Concepts |
+|     18      |              Data Manipulation with NumPy              | Introduction <br>NumPy Arrays <br>NumPy Basics <br>Math <br>Random <br>Indexing <br>Filtering <br>Statistics <br>Aggregation <br>Saving Data |
+|     19      |               Data Analysis with pandas                | Introduction <br/>Series<br />DataFrame<br>Combining<br>Indexing<br>File I/O<br>Grouping<br>Features<br>Filtering<br>Sorting<br>statistics<br>Plotting |
+|     20      |               Data Cleaning With Pandas                | Working with Duplicates and Missing Values <br> Which values should be replace with missing values based on data<br> Identifying and Eliminating Outliers<br> Applying on raw dataset and <br />introduction to Kaggle and other data sources |
+|     21      |          Data Preprocessing with Scikit-Learn          | Introduction<br> Standardizing Data<br> Data Range<br> Robust Scaling<br> Normalizing Data<br> Data Imputation |
+|     22      |   Introduction to Data Visualization and Matplotlib    | Introduction to Visualization and Python packages <br>Matplotlib history <br>Introduction to plotting <br>Line Plot <br>Scatter Plot <br>Bar Graph <br>Histogram <br>Pie Chart <br>Box Plot <br>Tasks |
+|     23      |            Data Visualization using Seaborn            | Using Seaborn Styles<br> Setting the default style<br> Color Palettes<br> Creating Custom Palettes<br> stripplot() and swarmplot()<br> boxplots, violinplots and lvplots<br> barplots, pointplots and countplots<br> |
+|     24      |            Data Visualization using Seaborn            | Using Seaborn Styles<br> Setting the default style<br>Color Palettes<br> Regression Plots<br> Binning data<br> Pairplots<br> Creating heatmaps |
+|     25      |            Introduction to Machine Learning            | What is Machine Learning<br/>Machine Learning Classification<br/>Types of Algorithms |
+|     26      |                   Regression Models                    | Linear Regression with One variable<br> Evaluation Metrics in Regression Models<br> Train/Test splitting of data & Cross Validation<br> Linear Regression with Multiple Variables<br> Polynomial Features<br> Non-Linear Regression with One variable<br> Non-Linear Regression with Multiple variable |
+|     27      |                 Regularization Models                  | Under fitting<br> Overfitting<br> Best fit<br> Applying Ridge Regression<br> Lasso Regression Algorithms |
+|     28      |               Classification models - 1                | Introduction to categorical types of data<br> Types of classification<br> K-Nearest Neighbors Classifier<br> Evaluation Metrics for classification Models<br> Logistic regression<br> Support Vector Machines |
+|     29      |             Unsupervised Machine Learning              | Introduction to Unsupervised Learning <br> Types of Unsupervised Learning |
+|     30      |                       Clustering                       | Introduction to clustering <br> Types of Clustering Methods <br> K-Means Clustering <br>Hierarchical Clustering<br /> Applications |
+|     31      |                Dimensionality Reduction                | Dimensionality Reduction: <br>Principal Component Analysis (PCA) |
+
 
 ## Hardware Requirements:
 - i3 or above Processor is required
