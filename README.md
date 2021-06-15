@@ -53,3 +53,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day17 - 11-Jun-2021 - Object Oriented Programming in Python P1 → **[[.ipynb]](Notebooks/Day17_Object_Oriented_Programming_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day17_Object_Oriented_Programming_in_Python.pdf)** - **[[Recording]](https://youtu.be/NcdI5qQ5LHg)**
 - Day18 - 12-Jun-2021 - Object Oriented Programming in Python P2 → **[[.ipynb]](Notebooks/Day18_Inheritance%2CEncapsulation/Day18_Inheritance.ipynb)** - **[[Recording]](https://youtu.be/nAx1gZ6odJY)**
 - Day19 - 14-Jun-2021 - **[[All About Data]](Slides/Day19_All_About_Data.pdf)** → **[[Recording]](https://youtu.be/yW6Wj2rxXYA)**
+- Day18 - 12-Jun-2021 - Data Science Life Cycle & Numpy → **[[.ipynb]](Notebooks/Day20-Numpy)** - **[[Recording]](https://youtu.be/nAx1gZ6odJY)**
+
+
+
+
