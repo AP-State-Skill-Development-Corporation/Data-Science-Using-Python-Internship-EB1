@@ -55,6 +55,6 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day19 - 14-Jun-2021 - **[[All About Data]](Slides/Day19_All_About_Data.pdf)** → **[[Recording]](https://youtu.be/yW6Wj2rxXYA)**
 - Day20 - 15-Jun-2021 - Data Science Life Cycle & Numpy → **[[.ipynb]](Notebooks/Day20-Numpy)** - **[[Recording]](https://youtu.be/Eju317euY5I)**
 - Day21 - 16-Jun-2021 -  Numpy continue..  → **[[.ipynb]](Notebooks/Day21-Numpy%20conti)** - **[[Recording]](https://youtu.be/S8e0htZf7Ec)**
-- Day22 - 17-Jun-2021 - Data Analysis using Pandas →**[[.ipynb]](Notebooks/)** - **[[Recording]](https://youtu.be/FcoO7VhE0B4)**
+- Day22 - 17-Jun-2021 - Data Analysis using Pandas →**[[.ipynb]](Notebooks/Day22-Pandas)** - **[[Recording]](https://youtu.be/FcoO7VhE0B4)**
 - Day23 - 18-Jun-2021 - Data Analysis using Pandas → **[[.ipynb]](Notebooks/Day23-Pandas%20continue/Pandas%20continue...ipynb)** - **[[Recording]](https://youtu.be/FcoO7VhE0B4)**
 
