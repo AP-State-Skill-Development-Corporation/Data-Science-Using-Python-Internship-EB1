@@ -1,0 +1,13 @@
+s.no,day,temparature,winspeed,event
+1,1/2/2019,30,12,rain
+1,1/2/2019,NaN,14,NaN
+2,1/3/2019,43,13,rain
+3,1/4/2019,55,NaN,fullair
+4,1/5/2019,66,10,NaN
+5,1/6/2019,34,15,cold
+6,1/7/2019,NaN,17,fullair
+7,1/8/2019,89,NaN,cold
+8,1/9/2019,NaN,9,fullair
+9,1/10/2019,90,11,cold
+10,1/11/2019,65,NaN,NaN
+11,1/12/2019,NaN,20,fullair
