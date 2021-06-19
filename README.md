@@ -57,6 +57,6 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day21 - 16-Jun-2021 -  Numpy continue..  → **[[.ipynb]](Notebooks/Day21-Numpy%20conti)** - **[[Recording]](https://youtu.be/S8e0htZf7Ec)**
 - Day22 - 17-Jun-2021 - Data Analysis using Pandas → **[[.ipynb]](Notebooks/Day22-Pandas)** - **[[Recording]](https://youtu.be/FcoO7VhE0B4)**
 - Day23 - 18-Jun-2021 - Data Analysis using Pandas Part-2 → **[[.ipynb]](Notebooks/Day23-Pandas%20continue/Pandas%20continue...ipynb)** - **[[Recording]](https://youtu.be/T9u-xcRCsXk)**
-- - Day23 - 18-Jun-2021 - Data Analysis using Pandas Part-3 → **[[.ipynb]](Notebooks/Day24-Cleaning%20Data%2Cmatplotlib)** - **[[Recording]](https://youtu.be/T9u-xcRCsXk)**
+- Day24 - 18-Jun-2021 - Data Analysis using Pandas Part-3 → **[[.ipynb]](Notebooks/Day24-Cleaning%20Data%2Cmatplotlib)** - **[[Recording]](https://youtu.be/T9u-xcRCsXk)**
 
 
