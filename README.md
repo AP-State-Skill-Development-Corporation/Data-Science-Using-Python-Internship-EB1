@@ -1,4 +1,4 @@
-![APSSDC-LOGO](https://drive.google.com/uc?export=download&id=15AKQ6_-BixW4K6mL6RPphF5EKXqYF2zj)
+![APSSDC-LOGO](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/APSSDC-Registration/main/apssdc-logo.png)
 
 # Data Science Using Python
 
@@ -57,6 +57,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day21 - 16-Jun-2021 -  Numpy continue..  → **[[.ipynb]](Notebooks/Day21-Numpy%20conti)** - **[[Recording]](https://youtu.be/S8e0htZf7Ec)**
 - Day22 - 17-Jun-2021 - Data Analysis using Pandas → **[[.ipynb]](Notebooks/Day22-Pandas)** - **[[Recording]](https://youtu.be/FcoO7VhE0B4)**
 - Day23 - 18-Jun-2021 - Data Analysis using Pandas Part-2 → **[[.ipynb]](Notebooks/Day23-Pandas%20continue/Pandas%20continue...ipynb)** - **[[Recording]](https://youtu.be/T9u-xcRCsXk)**
-- Day24 - 19-Jun-2021 - Data Analysis using Pandas Part-3 → **[[.ipynb]](Notebooks/Day24-Cleaning%20Data%2Cmatplotlib)** - **[[Recording]](https://youtu.be/xrIDSv_YbPc)**
-
-
+- Day24 - 19-Jun-2021 - Data Analysis & Cleaning using Pandas → **[[.ipynb]](Notebooks/Day24-Cleaning%20Data%2Cmatplotlib)** - **[[Recording]](https://youtu.be/xrIDSv_YbPc)**
+- Day25 - 21-Jun-2021 - Data Visualizatoin using Matplotlib → **[[.ipynb]](Notebooks/Day25_Data_Visualization_using_Matplotlib.ipynb), [[.pdf]](PDF_Notebooks/Day25_Data_Visualization_using_Matplotlib.pdf)** - **[[Recording]](https://youtu.be/eng-iQgfLXI)**
