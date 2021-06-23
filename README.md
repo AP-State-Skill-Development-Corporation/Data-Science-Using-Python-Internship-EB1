@@ -60,4 +60,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day24 - 19-Jun-2021 - Data Analysis & Cleaning using Pandas → **[[.ipynb]](Notebooks/Day24-Cleaning%20Data%2Cmatplotlib)** - **[[Recording]](https://youtu.be/xrIDSv_YbPc/?sub_confirmation=1)**
 - Day25 - 21-Jun-2021 - Data Visualizatoin using Matplotlib → **[[.ipynb]](Notebooks/Day25_Data_Visualization_using_Matplotlib.ipynb), [[.pdf]](PDF_Notebooks/Day25_Data_Visualization_using_Matplotlib.pdf)** - **[[Recording]](https://youtu.be/eng-iQgfLXI/?sub_confirmation=1)**
 - Day26 - 22-Jun-2021 - Data Visualizatoin using Matplotlib and Data Preprocessing → **[[.ipynb]](Notebooks/Day26-Matplotlib%2CData%20Preprocessing), [[.pdf]](PDF_Notebooks/Day25_Data_Visualization_using_Matplotlib.pdf)** - **[[Recording]]()**
+- Day27 - 23-Jun-2021 -  Data Preprocessing with titanic dataset → **[[.ipynb]](Notebooks/Day27-Data%20Preprocessing), [[.pdf]](PDF_Notebooks/Day25_Data_Visualization_using_Matplotlib.pdf)** - **[[Recording]]()**
+
+
+
 
