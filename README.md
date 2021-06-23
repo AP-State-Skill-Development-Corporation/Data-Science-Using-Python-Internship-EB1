@@ -59,9 +59,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day23 - 18-Jun-2021 - Data Analysis using Pandas Part-2 → **[[.ipynb]](Notebooks/Day23-Pandas%20continue/Pandas%20continue...ipynb)** - **[[Recording]](https://youtu.be/T9u-xcRCsXk/?sub_confirmation=1)**
 - Day24 - 19-Jun-2021 - Data Analysis & Cleaning using Pandas → **[[.ipynb]](Notebooks/Day24-Cleaning%20Data%2Cmatplotlib)** - **[[Recording]](https://youtu.be/xrIDSv_YbPc/?sub_confirmation=1)**
 - Day25 - 21-Jun-2021 - Data Visualizatoin using Matplotlib → **[[.ipynb]](Notebooks/Day25_Data_Visualization_using_Matplotlib.ipynb), [[.pdf]](PDF_Notebooks/Day25_Data_Visualization_using_Matplotlib.pdf)** - **[[Recording]](https://youtu.be/eng-iQgfLXI/?sub_confirmation=1)**
-- Day26 - 22-Jun-2021 - Data Visualizatoin using Matplotlib and Data Preprocessing → **[[.ipynb]](Notebooks/Day26-Matplotlib%2CData%20Preprocessing), [[.pdf]](PDF_Notebooks/Day25_Data_Visualization_using_Matplotlib.pdf)** - **[[Recording]]()**
-- Day27 - 23-Jun-2021 -  Data Preprocessing with titanic dataset → **[[.ipynb]](Notebooks/Day27-Data%20Preprocessing), [[.pdf]](PDF_Notebooks/Day25_Data_Visualization_using_Matplotlib.pdf)** - **[[Recording]]()**
-
-
-
-
+- Day26 - 22-Jun-2021 - Data Visualizatoin using Matplotlib and Data Preprocessing → **[[.ipynb]](Notebooks/Day26-Matplotlib%2CData%20Preprocessing)** - **[[Recording]](https://youtu.be/0CdvP5i7EzU/?sub_confirmation=1)**
+- Day27 - 23-Jun-2021 -  Data Preprocessing with Titanic Dataset → **[[.ipynb]](Notebooks/Day27-Data%20Preprocessing)** - **[[Recording]](https://youtu.be/6c0cz3w5Zy8/?sub_confirmation=1)**
