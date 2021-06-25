@@ -54,14 +54,15 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day18 - 12-Jun-2021 - Object Oriented Programming in Python P2 → **[[.ipynb]](Notebooks/Day18_Inheritance%2CEncapsulation/Day18_Inheritance.ipynb)** - **[[Recording]](https://youtu.be/nAx1gZ6odJY/?sub_confirmation=1)**
 - Day19 - 14-Jun-2021 - **[[All About Data]](Slides/Day19_All_About_Data.pdf)** → **[[Recording]](https://youtu.be/yW6Wj2rxXYA/?sub_confirmation=1)**
 - Day20 - 15-Jun-2021 - Data Science Life Cycle & Numpy → **[[.ipynb]](Notebooks/Day20-Numpy)** - **[[Recording]](https://youtu.be/Eju317euY5I/?sub_confirmation=1)**
-- Day21 - 16-Jun-2021 -  Numpy continue..  → **[[.ipynb]](Notebooks/Day21-Numpy%20conti)** - **[[Recording]](https://youtu.be/S8e0htZf7Ec/?sub_confirmation=1)**
+- Day21 - 16-Jun-2021 - Numpy continue..  → **[[.ipynb]](Notebooks/Day21-Numpy%20conti)** - **[[Recording]](https://youtu.be/S8e0htZf7Ec/?sub_confirmation=1)**
 - Day22 - 17-Jun-2021 - Data Analysis using Pandas → **[[.ipynb]](Notebooks/Day22-Pandas)** - **[[Recording]](https://youtu.be/FcoO7VhE0B4/?sub_confirmation=1)**
 - Day23 - 18-Jun-2021 - Data Analysis using Pandas Part-2 → **[[.ipynb]](Notebooks/Day23-Pandas%20continue/Pandas%20continue...ipynb)** - **[[Recording]](https://youtu.be/T9u-xcRCsXk/?sub_confirmation=1)**
 - Day24 - 19-Jun-2021 - Data Analysis & Cleaning using Pandas → **[[.ipynb]](Notebooks/Day24-Cleaning%20Data%2Cmatplotlib)** - **[[Recording]](https://youtu.be/xrIDSv_YbPc/?sub_confirmation=1)**
 - Day25 - 21-Jun-2021 - Data Visualizatoin using Matplotlib → **[[.ipynb]](Notebooks/Day25_Data_Visualization_using_Matplotlib.ipynb), [[.pdf]](PDF_Notebooks/Day25_Data_Visualization_using_Matplotlib.pdf)** - **[[Recording]](https://youtu.be/eng-iQgfLXI/?sub_confirmation=1)**
 - Day26 - 22-Jun-2021 - Data Visualizatoin using Matplotlib and Data Preprocessing → **[[.ipynb]](Notebooks/Day26-Matplotlib%2CData%20Preprocessing)** - **[[Recording]](https://youtu.be/0CdvP5i7EzU/?sub_confirmation=1)**
-- Day27 - 23-Jun-2021 -  Data Preprocessing with Titanic Dataset → **[[.ipynb]](Notebooks/Day27-Data%20Preprocessing)** - **[[Recording]](https://youtu.be/6c0cz3w5Zy8/?sub_confirmation=1)**
--  Day28 - 24-Jun-2021 -  Data Visualisation → **[[.ipynb]](Notebooks/Day28-Visualization)** - **[[Recording]]()**
+- Day27 - 23-Jun-2021 - Data Preprocessing with Titanic Dataset → **[[.ipynb]](Notebooks/Day27-Data%20Preprocessing)** - **[[Recording]](https://youtu.be/6c0cz3w5Zy8/?sub_confirmation=1)**
+- Day28 - 24-Jun-2021 - Data Visualisation using Seaborn → **[[.ipynb]](Notebooks/Day28-Visualization)** - **[[Recording]](https://youtu.be/yiELuGyVZ-M/?sub_confirmation=1)**
+
 
 
 
