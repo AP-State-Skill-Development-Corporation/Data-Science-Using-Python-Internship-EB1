@@ -62,4 +62,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day26 - 22-Jun-2021 - Data Visualizatoin using Matplotlib and Data Preprocessing → **[[.ipynb]](Notebooks/Day26-Matplotlib%2CData%20Preprocessing)** - **[[Recording]](https://youtu.be/0CdvP5i7EzU/?sub_confirmation=1)**
 - Day27 - 23-Jun-2021 - Data Preprocessing with Titanic Dataset → **[[.ipynb]](Notebooks/Day27-Data%20Preprocessing)** - **[[Recording]](https://youtu.be/6c0cz3w5Zy8/?sub_confirmation=1)**
 - Day28 - 24-Jun-2021 - Data Visualisation using Seaborn → **[[.ipynb]](Notebooks/Day28-Visualization)** - **[[Recording]](https://youtu.be/yiELuGyVZ-M/?sub_confirmation=1)**
-- Day29 - 25-Jun-2021 - Data Visualisation using Seaborn Part-2 → **[[.ipynb]](Notebooks/Day29-Seaborn Plots)** - **[[Recording]](https://youtu.be/zLZ_j7-697g/?sub_confirmation=1)**
+- Day29 - 25-Jun-2021 - Data Visualisation using Seaborn Part-2 → **[[.ipynb]](Notebooks/Day29-Seaborn%20Plots)** - **[[Recording]](https://youtu.be/zLZ_j7-697g/?sub_confirmation=1)**
