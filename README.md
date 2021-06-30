@@ -65,6 +65,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day29 - 25-Jun-2021 - Data Visualisation using Seaborn Part-2 → **[[.ipynb]](Notebooks/Day29-Seaborn%20Plots)** - **[[Recording]](https://youtu.be/zLZ_j7-697g/?sub_confirmation=1)**
 - Day30 - 26-Jun-2021 - Data Visualisation using Seaborn Part-3 → **[[.ipynb]](Notebooks/Day30-Seaborn%20Plots)** - **[[Recording]](https://youtu.be/w8oihhBBi8g/?sub_confirmation=1)**
 - Day31 - 28-Jun-2021 - Introduction to Machine Learning → **[[.ipynb]](Notebooks/Day31_ML_intro)** - **[[Recording]](https://youtu.be/pqNtcKS-JMg/?sub_confirmation=1)**
-- Day32 - 29-Jun-2021 - Simple Linear Regression using Python → **[[.ipynb]]()** - **[[Recording]](https://youtu.be/sto2yknObkQ/?sub_confirmation=1)**
-
-
+- Day32 - 29-Jun-2021 - Simple Linear Regression using Python → **[[.ipynb]](Day32_Simple_linear_Regression_using_sklearn)** - **[[Recording]](https://youtu.be/sto2yknObkQ/?sub_confirmation=1)**
+- Day33 - 30-Jun-2021 - Multi Linear Regression & Polynomial Regression → **[[.ipynb]]()** - **[[Recording]](https://youtu.be/6-xSL7guJAo/?sub_confirmation=1)**
