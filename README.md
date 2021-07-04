@@ -68,3 +68,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day32 - 29-Jun-2021 - Simple Linear Regression using Python → **[[.ipynb]](Notebooks/Day32_Simple_linear_Regression_using_sklearn)** - **[[Recording]](https://youtu.be/sto2yknObkQ/?sub_confirmation=1)**
 - Day33 - 30-Jun-2021 - Multi Linear Regression & Polynomial Regression → **[[.ipynb]](Notebooks/Day_33_multiple_and_polynomial_regression)** - **[[Recording]](https://youtu.be/6-xSL7guJAo/?sub_confirmation=1)**
 - Day34 - 01-Jul-2021 - Regularized Models and Evaluation Metrics for Regression → **[[.ipynb]](Notebooks/)** - **[[Recording]](https://youtu.be/SaWAWI09tZI/?sub_confirmation=1)**
+- Day35 - 02-Jul-2021 - Elastic Net and Polynomial Regression → **[[.ipynb]](Notebooks/Day_35(Elastic Net))** - **[[Recording]](https://youtu.be/9XWSQF0mKAs/?sub_confirmation=1)**
+- Day36 - 03-Jul-2021 - Logistic Regression and Evaluation Metrics for classification → **[[.ipynb]](Notebooks/)** - **[[Recording]](https://youtu.be/r7XnrtIPQfI/?sub_confirmation=1)**
