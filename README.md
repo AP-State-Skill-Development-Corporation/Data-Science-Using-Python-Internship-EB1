@@ -69,4 +69,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day33 - 30-Jun-2021 - Multi Linear Regression & Polynomial Regression → **[[.ipynb]](Notebooks/Day_33_multiple_and_polynomial_regression)** - **[[Recording]](https://youtu.be/6-xSL7guJAo/?sub_confirmation=1)**
 - Day34 - 01-Jul-2021 - Regularized Models and Evaluation Metrics for Regression → **[[.ipynb]](Notebooks/)** - **[[Recording]](https://youtu.be/SaWAWI09tZI/?sub_confirmation=1)**
 - Day35 - 02-Jul-2021 - Elastic Net and Polynomial Regression → **[[.ipynb]](https://github.com/AP-State-Skill-Development-Corporation/Data-Science-Using-Python-Internship-EB1/tree/main/Notebooks/Day_35(Elastic%20Net))** - **[[Recording]](https://youtu.be/9XWSQF0mKAs/?sub_confirmation=1)**
-- Day36 - 03-Jul-2021 - Logistic Regression and Evaluation Metrics for classification → **[[.ipynb]](Notebooks/)** - **[[Recording]](https://youtu.be/r7XnrtIPQfI/?sub_confirmation=1)**
+- Day36 - 03-Jul-2021 - Logistic Regression and Evaluation Metrics for classification → **[[.ipynb]](https://github.com/AP-State-Skill-Development-Corporation/Data-Science-Using-Python-Internship-EB1/tree/main/Notebooks/Day_36(Logistic%20Regression))** - **[[Recording]](https://youtu.be/r7XnrtIPQfI/?sub_confirmation=1)**
+- Day37 - 05-Jul-2021 - KNearest Neighbors Classification → **[[.ipynb]](Notebooks/Day_37_KNN_algorithm)** - **[[Recording]](https://youtu.be/L1XbfzxsdNo/?sub_confirmation=1)**
+- Day38 - 06-Jul-2021 - Decision Tree Classification → **[[.ipynb]](Notebooks/Day_38_Decision_tree)** - **[[Recording]](https://youtu.be/wy34T2qox1w/?sub_confirmation=1)**
+- Day39 - 07-Jul-2021 - Random Forest classification → **[[.ipynb]](Notebooks/)** - **[[Recording]](https://youtu.be/CCrxLfNfzsQ/?sub_confirmation=1)**
+- Day40 - 08-Jul-2021 - Support Vector Machines → **[[.ipynb]](Notebooks/)** - **[[Recording]](https://youtu.be/3gD3oGWSrWw/?sub_confirmation=1)**
