@@ -74,3 +74,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Day38 - 06-Jul-2021 - Decision Tree Classification → **[[.ipynb]](Notebooks/Day_38_Decision_tree)** - **[[Recording]](https://youtu.be/wy34T2qox1w/?sub_confirmation=1)**
 - Day39 - 07-Jul-2021 - Random Forest classification → **[[.ipynb]](Notebooks/Day_39(Random_Forest_Classifier).ipynb)** - **[[Recording]](https://youtu.be/CCrxLfNfzsQ/?sub_confirmation=1)**
 - Day40 - 08-Jul-2021 - Support Vector Machines → **[[.ipynb]](Notebooks/Day_40_Support_vector_machine.ipynb)** - **[[Recording]](https://youtu.be/3gD3oGWSrWw/?sub_confirmation=1)**
+- Day41 - 09-Jul-2021 - Navie Bayes Classifier → **[[.ipynb]](Notebooks/Day_40_Support_vector_machine.ipynb)** - **[[Recording]](https://youtu.be/hrL3FdY8TH0/?sub_confirmation=1)**
